@@ -17,6 +17,6 @@ public class HelloTestNG {
     @Test
     public void Test2()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
 }

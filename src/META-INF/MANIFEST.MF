@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: testng.jar testng.jar
+Main-Class: com.app.Main
+

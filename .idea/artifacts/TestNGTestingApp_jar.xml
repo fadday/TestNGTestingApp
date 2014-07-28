@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="TestNGTestingApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestNGTestingApp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TestNGTestingApp.jar">
+        <element id="module-output" name="TestNGTestingApp" />
+      </element>
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar" />
+      <element id="library" level="project" name="testng" />
+    </root>
+  </artifact>
+</component>
