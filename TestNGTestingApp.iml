@@ -16,6 +16,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="testng" level="project" />
   </component>
 </module>
 
