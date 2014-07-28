@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar!/" />
+          <root url="jar://C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/plugins/testng/lib/testng.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
